@@ -1,0 +1,15 @@
+- name: Adobe XD
+  percentage: 60
+  color: info
+
+- name: Linux System
+  percentage: 70
+  color: success
+
+- name: Automation Tools
+  percentage: 85
+  color: green
+
+- name: Jekyll
+  percentage: 70
+  color: success

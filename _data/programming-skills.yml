@@ -1,0 +1,15 @@
+- name: WordPress
+  percentage: 95
+  color: danger
+
+- name: HTML/CSS
+  percentage: 90
+  color: dark
+
+- name: JavaScript
+  percentage: 80
+  color:
+
+- name: React
+  percentage: 60
+  color: dark
